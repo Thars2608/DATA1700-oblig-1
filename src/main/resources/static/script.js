@@ -100,4 +100,3 @@ function valideringAvNummer(telefon) {
     return re.test(telefon);
 }
 
-//h
