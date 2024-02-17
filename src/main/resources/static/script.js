@@ -99,3 +99,5 @@ function valideringAvNummer(telefon) {
     const re = /^\d{8}$/;
     return re.test(telefon);
 }
+
+//
