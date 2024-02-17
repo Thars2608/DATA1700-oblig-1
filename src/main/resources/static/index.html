@@ -17,6 +17,10 @@
 </select>
 <br>
 
+<label for="antall">Antall:</label>
+<input type="number" id="antall">
+<br>
+
 <label for="navn">Navn:</label>
 <input type="text" id="navn">
 <br>
@@ -29,7 +33,10 @@
 <input type="number" id="telefon">
 <br>
 
-<button>Kjøp billett</button>
-<button>Slett alle billetter</button>
+<button onclick="kjopBillett()">Kjøp billett</button>
+<button onclick="slettBilletter()">Slett alle billetter</button>
+
+<h2>Billettliste:</h2>
+<ul id="billettListe"></ul>
 </body>
 </html>
