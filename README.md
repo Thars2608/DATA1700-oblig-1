@@ -5,7 +5,7 @@ Oslomet brukernavn: Thjey7576
 
 GitHub brukernavn: Thars2608
 
-GitHub repo URL:
+GitHub repo URL: https://github.com/Thars2608/DATA1700-oblig-1
 
 Fullt navn: Tharshvan Jeyakumar
 
